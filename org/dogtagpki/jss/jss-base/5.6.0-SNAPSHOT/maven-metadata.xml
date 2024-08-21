@@ -3,27 +3,27 @@
   <groupId>org.dogtagpki.jss</groupId>
   <artifactId>jss-base</artifactId>
   <versioning>
-    <lastUpdated>20240821154329</lastUpdated>
+    <lastUpdated>20240821172215</lastUpdated>
     <snapshot>
-      <timestamp>20240821.154329</timestamp>
+      <timestamp>20240821.172215</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>5.6.0-20240821.154329-1</value>
-        <updated>20240821154329</updated>
+        <value>5.6.0-20240821.172215-1</value>
+        <updated>20240821172215</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>5.6.0-20240821.154329-1</value>
-        <updated>20240821154329</updated>
+        <value>5.6.0-20240821.172215-1</value>
+        <updated>20240821172215</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>tests</classifier>
         <extension>jar</extension>
-        <value>5.6.0-20240821.154329-1</value>
-        <updated>20240821154329</updated>
+        <value>5.6.0-20240821.172215-1</value>
+        <updated>20240821172215</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
