@@ -3,21 +3,21 @@
   <groupId>org.dogtagpki.pki</groupId>
   <artifactId>pki-tools</artifactId>
   <versioning>
-    <lastUpdated>20241206001604</lastUpdated>
+    <lastUpdated>20241206012928</lastUpdated>
     <snapshot>
-      <timestamp>20241206.001604</timestamp>
+      <timestamp>20241206.012928</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>11.6.0-20241206.001604-1</value>
-        <updated>20241206001604</updated>
+        <value>11.6.0-20241206.012928-1</value>
+        <updated>20241206012928</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>11.6.0-20241206.001604-1</value>
-        <updated>20241206001604</updated>
+        <value>11.6.0-20241206.012928-1</value>
+        <updated>20241206012928</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
